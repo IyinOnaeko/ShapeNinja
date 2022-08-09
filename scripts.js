@@ -50,7 +50,7 @@ document.getElementById("squares").onclick = function () {
   }
  
  
-  if (timeTaken < quickestTime && !firstRun) {
+  if (timeTaken < quickestTime) {
     quickestTime = timeTaken;
   }
 
