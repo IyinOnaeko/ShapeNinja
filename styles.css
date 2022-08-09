@@ -1,0 +1,29 @@
+hr {
+    border: 1px dotted #ff0000;
+    border-style: none none dotted; 
+    color: #fff; 
+    background-color: #fff;
+    height: 3px;
+}
+
+#squares {
+     width: 200px;
+     height: 200px;
+     background-color: red;
+     display: none;
+     position: relative;
+    
+}
+
+#section {
+    background-color: #
+}
+
+body {
+    text-align: center;
+} 
+
+
+.display-3 {
+    background-color: ;
+}
